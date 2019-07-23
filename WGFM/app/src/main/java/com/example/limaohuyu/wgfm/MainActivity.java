@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initView() {
         mTvLane1 = (TextView) findViewById(R.id.tv_lane1);
-        mTvLane1.setText("我的打的");
+        mTvLane1.setText("我的打的订单");
         mTvLane2 = (TextView) findViewById(R.id.tv_lane2);
         mTvLane2.setText("我的打的1");
         mTvLane3 = (TextView) findViewById(R.id.tv_lane3);
